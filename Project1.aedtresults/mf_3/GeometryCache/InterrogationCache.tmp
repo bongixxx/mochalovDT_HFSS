@@ -1,0 +1,71 @@
+$begin 'InterrogationCache'
+	Version=1
+	$begin 'ValidationStatus'
+		$begin 'Options'
+			EntityCheckLevel='Strict'
+			IgnoreUnclassifiedObjects=false
+			SkipIntersectionChecks=false
+		$end 'Options'
+		Status=true
+	$end 'ValidationStatus'
+	$begin 'BodyCaches'
+		$begin '6'
+			$begin 'BoundingBox'
+				Low[3: -1748.0837851762799, -912.48643395612294, -125.94798205129321]
+				High[3: -1048.0837970980658, -662.48643398285003, 572.09466584026802]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '6'
+		$begin '2698'
+			$begin 'BoundingBox'
+				Low[3: 971.24020755291019, 662.86492350389881, -125.94798205129302]
+				High[3: 1671.2401359672601, 912.86492347717217, 572.09466584026802]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '2698'
+		$begin '5390'
+			$begin 'BoundingBox'
+				Low[3: -1748.0837851762799, 662.86492350389881, -125.94798205129302]
+				High[3: -1048.0837971572882, 912.86492347717217, 572.09466584026802]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '5390'
+		$begin '8082'
+			$begin 'BoundingBox'
+				Low[3: 971.24020755291019, -912.48643395612294, -125.94798205129285]
+				High[3: 1671.2401360264753, -662.48643398285003, 572.09466584026802]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '8082'
+		$begin '10774'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
+			$begin 'BoundingBox'
+				Low[3: -2524.0387469508901, -906.6088198920919, -8.0486833809541025]
+				High[3: 2243.6972111396699, 906.689762925286, 1237.320750951764]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '10774'
+		$begin '13273'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
+			$begin 'BoundingBox'
+				Low[3: -2615.3629478641315, -997.93302080533385, -99.372884294196055]
+				High[3: 2335.0214120529113, 998.01396383852796, 1328.6449518650063]
+				Exact=true
+				Valid=true
+			$end 'BoundingBox'
+		$end '13273'
+	$end 'BodyCaches'
+	$begin 'IntersectionCaches'
+	$end 'IntersectionCaches'
+$end 'InterrogationCache'
